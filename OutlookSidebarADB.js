@@ -13,8 +13,9 @@
 
   // Define selectors more precisely and target specific elements
   var targets = [
-    '#MainModule+.GssDD > div[style*="width:"]',
-    '#MainModule > div > div > div[class*=css-] + div'
+    '#MainModule.GssDD > div[style*="width:"]',
+    '#MainModule > div > div > div[class*=css-] + div',
+    '#MainModule.customScrollBar > div > div > div > div:not([data-convid]'
   ];
 
   // Create the style element and apply CSS rules
