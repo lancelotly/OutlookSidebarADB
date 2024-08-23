@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         OutlookSidebarADB
-// @version      240219b
+// @version      240823.a
 // @description  hide outlook sidebar ads
 // @match        https://outlook.live.com/*
 // @icon         https://outlook.live.com/mail/favicon.ico
